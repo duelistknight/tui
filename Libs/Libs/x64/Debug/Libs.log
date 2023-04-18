@@ -1,0 +1,11 @@
+﻿  Libs.cpp
+C:\Users\panka\Desktop\Projects\Libs\Libs\TUI.c(57,38): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\panka\Desktop\Projects\Libs\Libs\TUI.c(577,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\panka\Desktop\Projects\Libs\Libs\Libs.cpp(39,19): warning C4101: 'filesize': unreferenced local variable
+C:\Users\panka\Desktop\Projects\Libs\Libs\Libs.cpp(180,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\panka\Desktop\Projects\Libs\Libs\Libs.cpp(182,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\panka\Desktop\Projects\Libs\Libs\Libs.cpp(196,56): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\panka\Desktop\Projects\Libs\Libs\TUI.c(102): warning C4715: 'insertTUI_Widget': not all control paths return a value
+C:\Users\panka\Desktop\Projects\Libs\Libs\TUI.c(266): warning C4715: 'insertTUI_Window': not all control paths return a value
+  LINK : C:\Users\panka\Desktop\Projects\Libs\x64\Debug\Libs.exe not found or not built by the last incremental link; performing full link
+  Libs.vcxproj -> C:\Users\panka\Desktop\Projects\Libs\x64\Debug\Libs.exe
